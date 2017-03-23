@@ -1,0 +1,8 @@
+{
+  "name": "zuora-remove-and-re-add-product",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "2.1.5",
+    "google-spreadsheet":"2.0.3"
+  }
+}
